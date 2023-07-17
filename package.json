@@ -60,6 +60,7 @@
     }
   },
   "dependencies": {
+    "ethers": "^6.6.4",
     "sitka": "^1.1.1"
   }
 }
